@@ -1,6 +1,7 @@
 # 👋 Hey! (WIP)
-[![My website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://edwardcs.com)
+[![My website](https://img.shields.io/badge/website-005B8C?style=for-the-badge&logo=About.me&logoColor=white)](https://edwardcs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwardsavin/)
+[![Resume](https://img.shields.io/badge/RESUME-0A64BC?style=for-the-badge&logo=DocuSign&logoColor=white)](https://edwardcs.com)
 
 
 ## Technologies
@@ -36,6 +37,12 @@
   ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 </details>
 
+## Education
+[![The Odin Project](https://img.shields.io/badge/THE%20ODIN%20PROJECT-cc9543?style=for-the-badge)](https://www.theodinproject.com/)
+[![Harvard CS50P](https://img.shields.io/badge/HARVARD%20CS50P-A41034?style=for-the-badge)](https://pll.harvard.edu/course/cs50s-introduction-programming-python?delta=0)
+
+
 ## Let's connect!
-[![My website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://edwardcs.com)
+[![My website](https://img.shields.io/badge/website-005B8C?style=for-the-badge&logo=About.me&logoColor=white)](https://edwardcs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwardsavin/)
+[![Resume](https://img.shields.io/badge/RESUME-0A64BC?style=for-the-badge&logo=DocuSign&logoColor=white)](https://edwardcs.com)
