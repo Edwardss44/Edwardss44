@@ -5,14 +5,15 @@
 
 
 ## Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-353b41?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-353b41?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-353b41?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-353b41?style=for-the-badge&logo=python)
+![NodeJs](https://img.shields.io/badge/Node.js-353b41?style=for-the-badge&logo=nodedotjs)
+![NPM](https://img.shields.io/badge/npm-353b41?style=for-the-badge&logo=npm)
+![Jest](https://img.shields.io/badge/Jest-353b41?style=for-the-badge&logo=Jest)
+![Git](https://img.shields.io/badge/GIT-353b41?style=for-the-badge&logo=git)
+![Webpack](https://img.shields.io/badge/webpack-353b41?style=for-the-badge&logo=webpack)
 
 <details>
   <summary><h4>More</h3></summary>
