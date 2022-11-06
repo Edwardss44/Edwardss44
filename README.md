@@ -34,6 +34,8 @@
   
   <h5>Tools</h5>
   
+  ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-1da462?style=for-the-badge&logo=GoogleChrome&logoColor=white)
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
   ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 </details>
