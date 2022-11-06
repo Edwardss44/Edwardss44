@@ -10,6 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-353b41?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-353b41?style=for-the-badge&logo=python)
 ![NodeJs](https://img.shields.io/badge/Node.js-353b41?style=for-the-badge&logo=nodedotjs)
+![Wordpress](https://img.shields.io/badge/Wordpress-353b41?style=for-the-badge&logo=wordpress)
 ![NPM](https://img.shields.io/badge/npm-353b41?style=for-the-badge&logo=npm)
 ![Jest](https://img.shields.io/badge/Jest-353b41?style=for-the-badge&logo=Jest)
 ![Git](https://img.shields.io/badge/GIT-353b41?style=for-the-badge&logo=git)
