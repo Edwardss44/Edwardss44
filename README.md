@@ -12,11 +12,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-353b41?style=for-the-badge&logo=css3&logoColor=blue)
 ![Python](https://img.shields.io/badge/Python-353b41?style=for-the-badge&logo=python)
 ![NodeJs](https://img.shields.io/badge/Node.js-353b41?style=for-the-badge&logo=nodedotjs)
-![Wordpress](https://img.shields.io/badge/Wordpress-353b41?style=for-the-badge&logo=wordpress)
 ![NPM](https://img.shields.io/badge/npm-353b41?style=for-the-badge&logo=npm)
+![Vite](https://img.shields.io/badge/Vite-353b41?style=for-the-badge&logo=Vite)
+![Vitest](https://img.shields.io/badge/Vitest-353b41?style=for-the-badge&logo=Vitest)
 ![Jest](https://img.shields.io/badge/Jest-353b41?style=for-the-badge&logo=Jest)
 ![Git](https://img.shields.io/badge/GIT-353b41?style=for-the-badge&logo=git)
 ![Webpack](https://img.shields.io/badge/webpack-353b41?style=for-the-badge&logo=webpack)
+![Wordpress](https://img.shields.io/badge/Wordpress-353b41?style=for-the-badge&logo=wordpress)
 
 <details>
   <summary><h4>More</h3></summary>
