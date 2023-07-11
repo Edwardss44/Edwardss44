@@ -1,5 +1,5 @@
 <h1 id="-hey-wip-" align="center">👋 Hey!</h1>
-<p align="center"><a href="https://edwardcs.com"><img src="https://img.shields.io/badge/website-005B8C?style=for-the-badge&amp;logo=About.me&amp;logoColor=white" alt="My website"></a>
+<p align="center"><a href="https://edw.dev"><img src="https://img.shields.io/badge/website-005B8C?style=for-the-badge&amp;logo=About.me&amp;logoColor=white" alt="My website"></a>
    <a href="https://www.linkedin.com/in/edwardsavin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
    <a href="https://github.com/edwardsavin/resume/raw/main/EdwardSavin-Resume.pdf"><img src="https://img.shields.io/badge/RESUME-0A64BC?style=for-the-badge&amp;logo=DocuSign&amp;logoColor=white" alt="Resume"></a>
 </p>
