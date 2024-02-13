@@ -8,5 +8,5 @@
 <p align="center"><a href="https://edwardcs.com"><img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,planetscale,postgresql,mysql,tailwindcss,dotnet,html,css,linux" alt="Technologies"></a></p>
 <h2 id="education">Education</h2>
 <p align="center"><a href="https://www.theodinproject.com/"><img src="https://img.shields.io/badge/THE%20ODIN%20PROJECT-cc9543?style=for-the-badge" alt="The Odin Project"></a>
-   <a href="https://pll.harvard.edu/course/cs50s-introduction-programming-python?delta=0"><img src="https://img.shields.io/badge/HARVARD%20CS50P-A41034?style=for-the-badge" alt="Harvard CS50P"></a>
+   <a href="https://certificates.cs50.io/38000b5e-5d2e-4d51-8ee6-c2c090fa228b.pdf?size=letter"><img src="https://img.shields.io/badge/HARVARD%20CS50P-A41034?style=for-the-badge" alt="Harvard CS50P"></a>
 </p>
